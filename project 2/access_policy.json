@@ -1,0 +1,28 @@
+{
+	"Pitt": [
+		{
+			"name": "alice",
+			"role": "graduate",
+			"permission": "write",
+			"department": "CS"
+		},
+		{
+			"name": "bob",
+			"role": "undergrad",
+			"permission": "read",
+			"department": "BioE"
+		},
+		{
+			"name": "eve",
+			"role": "faculty",
+			"permission": "write",
+			"department": "CS"
+		},
+		{
+			"name": "john",
+			"role": "graduate",
+			"permission": "write",
+			"department": "BioE"
+		}
+	]
+}
